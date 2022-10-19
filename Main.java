@@ -39,7 +39,7 @@ class member{
 }
 public class Main {
 public static void main(String[] args) {
-       member member1 = new member ("1486"," Muqiitaa Diahayu","Tambun");
+       member member1 = new member ("Muqiitaa Diahayu","0216638","Tambun");
        member member2 = new member (100000,500000,0.10);
         member1.tampil();
         member2.tampil2();
